@@ -21,8 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TharaniTamilpandithan-dev&limit=5&theme=dark)
 
-### 🔝 Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TharaniTamilpandithan-dev&repo=YOUR_REPO_NAME&theme=dark)](https://github.com/TharaniTamilpandithan-dev/YOUR_REPO_NAME)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TharaniTamilpandithan-dev&icon=4&color=6)](https://visitcount.itsvg.in)
